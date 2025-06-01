@@ -47,3 +47,7 @@ This project analyzes Udemy course performance data to extract actionable insigh
 ## Conclusion [See Pivot tables](https://github.com/melvix04/Udemy-analysis/blob/main/Udemy%20Courses%20Dataset%20mansseh.xlsx)
 
 This analysis highlights clear patterns in course demand and revenue generation. By strategically reallocating marketing efforts, refining course offerings, and optimizing promotional tactics, Udemy can significantly enhance both user experience and financial performance.
+
+## Udemy Dashboard
+<img width="720" alt="Udemy dashboard" src="https://github.com/user-attachments/assets/c26c4e7e-7973-46bc-a8ee-d56c186be90a" />
+
