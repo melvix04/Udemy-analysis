@@ -1,2 +1,7 @@
-# Udemy-analysis
-I analyzed Udemy course performance data to extract actionable insights and provide strategic recommendations aimed at optimizing course offerings, enhancing user satisfaction, and ultimately increasing platform revenue.
+# Udemy Course Optimization Analysis
+# Project Title:
+Optimizing Udemy Courses Offers and Structure to Improve Revenue and Increase Satisfaction
+## Analysis aim
+Optimizing Udemy Courses Offers and Structure to Improve Revenue and Increase Satisfaction
+Dataset  : ![View Dataset](relative/path/to/image.png)
+Tools Used: ( Excel,  Python)
