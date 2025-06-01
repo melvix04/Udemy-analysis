@@ -21,9 +21,10 @@ This project analyzes Udemy course performance data to extract actionable insigh
 - Actionable Insight: Promote Web Development as flagship content. Reevaluate or delist low-engagement courses.
 
 
-## Time Trend Analysis
+## Time Trend Analysis [View](https://github.com/melvix04/Udemy-analysis/blob/main/Time%20trend.PNG)
 - Observation: Enrollment peaks during January and December and in evening hours (6:00 PM – 12:00 AM).
 - Actionable Insight: Apply dynamic pricing and schedule targeted advertisements during peak activity windows.
+  
 
 ## Revenue vs. Subscription Relationship
 - Observation: Strong positive correlation between subscription count and total revenue.
