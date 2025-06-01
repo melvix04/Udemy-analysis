@@ -11,7 +11,7 @@ Tools Used: ( Excel,  Python)
 This project analyzes Udemy course performance data to extract actionable insights and provide strategic recommendations aimed at optimizing course offerings, enhancing user satisfaction, and ultimately increasing platform revenue.
 
 ## Key Findings
-## Performance by Revenue [View](https://github.com/melvix04/Udemy-analysis/blob/main/U%20Course%20popularity.PNG)
+## Performance by Revenue [View](https://github.com/melvix04/Udemy-analysis/blob/main/Rev.%20Performance.PNG)
 - Observation: Web Development courses generate the highest revenue among all categories.
 - Actionable Insight: They should receive a higher portion of marketing spend and strategic attention.
 
