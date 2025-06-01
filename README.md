@@ -30,7 +30,8 @@ This project analyzes Udemy course performance data to extract actionable insigh
 - Observation: Strong positive correlation between subscription count and total revenue.
 - Actionable Insight: To grow revenue, the focus must be on increasing course subscriptions through content and promotional strategies.
   
-## Recommendations Summary
+## Recommendations Summary [View Presentation](https://github.com/melvix04/Udemy-analysis/blob/main/UDEMY%20presentation.pptx)
+
 ## Course Strategy
 - Prioritize Web Development course expansion and marketing.
 - Develop advanced/niche subtopics within top-performing categories.
