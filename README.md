@@ -4,7 +4,7 @@ Optimizing Udemy Courses Offers and Structure to Improve Revenue and Increase Sa
 
 ## Analysis aim
 Optimizing Udemy Courses Offers and Structure to Improve Revenue and Increase Satisfaction
-Dataset  : ![[View Dataset](relative/path/to/image.png](https://github.com/melvix04/Udemy-analysis/blob/main/Udemy%20Dataset.csv))
+Dataset  : [View Dataset](https://github.com/melvix04/Udemy-analysis/blob/main/Udemy%20Dataset.csv)
 Tools Used: ( Excel,  Python)
 
 ## Overview
@@ -15,7 +15,7 @@ This project analyzes Udemy course performance data to extract actionable insigh
 - Observation: Web Development courses generate the highest revenue among all categories.
 - Actionable Insight: They should receive a higher portion of marketing spend and strategic attention.
 
-  ## Course Popularity ![[View](relative/path/to/image.png](https://github.com/melvix04/Udemy-analysis/blob/main/Udemy%20Dataset.csv))
+  ## Course Popularity [View](https://github.com/melvix04/Udemy-analysis/blob/main/U%20Course%20popularity.PNG)
 - Observation: Courses in Web Development are both the most popular and most lucrative.
 - Observation: Musical and Graphic Design courses have lower engagement and require review.
 - Actionable Insight: Promote Web Development as flagship content. Reevaluate or delist low-engagement courses.
